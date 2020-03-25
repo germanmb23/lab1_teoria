@@ -12,9 +12,6 @@ funcion es_simetrica(M: Lista<Lista<Entero>>) -> Booleano {
                 resultado = falso
             }
         }
-		
-		si asdsa 
-			coso
         i = i+1
     }
     devolver resultado
