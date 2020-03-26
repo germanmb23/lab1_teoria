@@ -2,6 +2,8 @@
 import re
 import sys
 
+#probando git vscode
+
 def programa(texto):
     # Implementar programa
     texto = re.sub(r"^\s*//.*\n", "", texto)
