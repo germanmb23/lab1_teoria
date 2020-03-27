@@ -1,0 +1,26 @@
+#comenten lo que no quieran comparar, esto simplemente muestra ambas salidas en consola.
+diff salidas/programa1_entrada1.txt 	salidas_oficiales/programa1_entrada1.txt
+diff salidas/programa1_entrada2.txt 	salidas_oficiales/programa1_entrada2.txt
+diff salidas/programa1_entrada3.txt 	salidas_oficiales/programa1_entrada3.txt
+diff salidas/programa1_entrada4.txt 	salidas_oficiales/programa1_entrada4.txt
+diff salidas/programa1_entrada5.txt 	salidas_oficiales/programa1_entrada5.txt
+diff salidas/programa2_entrada1.txt 	salidas_oficiales/programa2_entrada1.txt
+diff salidas/programa2_entrada2.txt 	salidas_oficiales/programa2_entrada2.txt
+diff salidas/programa2_entrada3.txt 	salidas_oficiales/programa2_entrada3.txt
+diff salidas/programa2_entrada4.txt 	salidas_oficiales/programa2_entrada4.txt
+diff salidas/programa2_entrada5.txt 	salidas_oficiales/programa2_entrada5.txt
+diff salidas/programa3_entrada1.txt 	salidas_oficiales/programa3_entrada1.txt
+diff salidas/programa3_entrada2.txt 	salidas_oficiales/programa3_entrada2.txt
+diff salidas/programa3_entrada3.txt 	salidas_oficiales/programa3_entrada3.txt
+diff salidas/programa3_entrada4.txt 	salidas_oficiales/programa3_entrada4.txt
+diff salidas/programa3_entrada5.txt 	salidas_oficiales/programa3_entrada5.txt
+diff salidas/programa4_entrada1.txt 	salidas_oficiales/programa4_entrada1.txt
+diff salidas/programa4_entrada2.txt 	salidas_oficiales/programa4_entrada2.txt
+diff salidas/programa4_entrada3.txt 	salidas_oficiales/programa4_entrada3.txt
+diff salidas/programa4_entrada4.txt 	salidas_oficiales/programa4_entrada4.txt
+diff salidas/programa4_entrada5.txt 	salidas_oficiales/programa4_entrada5.txt
+diff salidas/programa5_entrada1.txt 	salidas_oficiales/programa5_entrada1.txt
+diff salidas/programa5_entrada2.txt 	salidas_oficiales/programa5_entrada2.txt
+diff salidas/programa5_entrada3.txt 	salidas_oficiales/programa5_entrada3.txt
+diff salidas/programa5_entrada4.txt 	salidas_oficiales/programa5_entrada4.txt
+diff salidas/programa5_entrada5.txt 	salidas_oficiales/programa5_entrada5.txt
